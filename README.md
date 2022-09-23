@@ -4,6 +4,22 @@
 <img src="https://wallpapercave.com/dwp1x/wp8903914.jpg">
 
 
+<h2>Skills</h2>
+<ol>
+  <li>React<li>
+  <li>Nodejs<li>
+  <li>MongoDB<li>
+  <li>MySQL<li>
+  <li>Bootstrap<li>
+  <li>Tailwind<li>
+  <li>npm<li>
+  <li>AWS<li>
+  <li>Git<li>
+  <li>Postman<li>
+  <li>Heroku<li>
+</ol>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ebenezhar&show_icons=true&locale=en" alt="Ebenezhar" /></p>
