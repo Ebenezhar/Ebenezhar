@@ -1,4 +1,5 @@
 ### Hi there 👋 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Ebenezhar&label=Profile%20views&color=0e75b6&style=flat" alt="Ebenezhar" /> </p>
 
 <h3 align="center">I'm Ebıı aka Ebenezhar from India, I do full stack development using react, node.js and mongoDB. I really enjoy learning languages like python, as well as work in javascript. </h3> 
 <div align="center"><img align="center" object-fit: "cover"; src="https://wallpapercave.com/dwp1x/wp8903914.jpg"/></div>
